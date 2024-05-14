@@ -15,5 +15,11 @@ When we call the `myprintf()` function with a format string and variables, it be
 * The `va_start` macro: This macro initializes the `va_list` variable with the starting address of the first argument, and it takes two arguments - the `va_list` variable and the last named parameter of the function.
 * The `va_arg` macro: to retrieve arguments passed to a function that accepts a variable number of arguments.
 
-
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
