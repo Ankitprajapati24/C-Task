@@ -18,8 +18,5 @@ When we call the `myprintf()` function with a format string and variables, it be
 ### Flow Chart :
 ![Untitled-2024-05-14-2243](https://github.com/Ankitprajapati24/C-Task/assets/130354420/028755c4-dc09-49cf-9a9c-2621668d8859)
 
-[Flow chart](![image](https://github.com/Ankitprajapati24/C-Task/assets/130354420/d59b1e62-9c54-4949-87d2-a9c37ef54ecc)
-
-
 
 
