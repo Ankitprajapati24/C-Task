@@ -18,8 +18,8 @@ When we call the `myprintf()` function with a format string and variables, it be
 ```mermaid
 graph TD;
     A-->B;
-    B-->c;
+    B-->C;
     C-->D;
-    D-->5;
+    D-->E;
 ```
 
